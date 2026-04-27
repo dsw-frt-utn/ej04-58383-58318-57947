@@ -3,6 +3,7 @@ domain\VehiculoCombustible.class
 domain\Marca.class
 domain\Responsable.class
 domain\Vehiculo.class
+views\AgregarVehiculoView$1.class
 views\ListarVehiculosView$1.class
 domain\VehiculoElectrico.class
 views\Controlador.class
